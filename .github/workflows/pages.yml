@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: '24'
           cache: npm
-      - run: npm ci --omit=optional
+      - run: npm ci
         env:
           ELECTRON_SKIP_BINARY_DOWNLOAD: '1'
       - run: npm test
