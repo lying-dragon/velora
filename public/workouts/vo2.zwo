@@ -1,0 +1,23 @@
+<workout_file>
+    <author>Marinov</author>
+    <name>Dijon</name>
+    <category>VO2 Max</category>
+    <description>60/60s or 60 sec ON at 121% of FTP followed by 60 sec OFF. In 2 groups by 8 reps each.</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <Warmup Duration="120" PowerLow="0.32" PowerHigh="0.39"/>
+        <SteadyState Duration="60" Power="0.39"/>
+        <SteadyState Duration="60" Power="0.47"/>
+        <SteadyState Duration="60" Power="0.55"/>
+        <SteadyState Duration="60" Power="0.63"/>
+        <IntervalsT Repeat="2" OnDuration="30" OffDuration="30" OnPower="0.98" OffPower="0.63"/>
+        <SteadyState Duration="120" Power="0.5"/>
+        <IntervalsT Repeat="8" OnDuration="60" OffDuration="60" OnPower="1.21" OffPower="0.44"/>
+        <SteadyState Duration="300" Power="0.40"/>
+        <IntervalsT Repeat="8" OnDuration="60" OffDuration="60" OnPower="1.21" OffPower="0.44"/>
+        <SteadyState Duration="300" Power="0.40"/>
+        <Cooldown Duration="300" PowerLow="0.39" PowerHigh="0.32"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,15 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.DS_Store
+
+release/
+
+# Local credentials and generated QA captures
+.env
+.env.*
+!.env.example
+.velora/
+docs/*.png
+docs/strava-ui-check.tcx

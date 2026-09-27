@@ -1,0 +1,746 @@
+{
+  "vo2": {
+    "name": "VO₂ 60/60 · Dijon",
+    "category": "인터벌",
+    "detail": "57분 · 2세트 × 8회",
+    "description": "60초 121% FTP와 60초 회복을 반복합니다.",
+    "origin": "Flux · Dijon",
+    "source": "/workouts/vo2.zwo",
+    "steps": [
+      {
+        "label": "워밍업",
+        "seconds": 120.0,
+        "factor": 0.32,
+        "factorEnd": 0.39,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "회복",
+        "seconds": 60.0,
+        "factor": 0.39,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "회복",
+        "seconds": 60.0,
+        "factor": 0.47,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 60.0,
+        "factor": 0.55,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 60.0,
+        "factor": 0.63,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "인터벌 1/2",
+        "seconds": 30.0,
+        "factor": 0.98,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 1/2",
+        "seconds": 30.0,
+        "factor": 0.63,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 2/2",
+        "seconds": 30.0,
+        "factor": 0.98,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 2/2",
+        "seconds": 30.0,
+        "factor": 0.63,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "회복",
+        "seconds": 120.0,
+        "factor": 0.5,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "인터벌 1/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 1/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 2/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 2/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 3/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 3/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 4/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 4/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 5/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 5/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 6/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 6/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 7/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 7/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 8/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 8/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "회복",
+        "seconds": 300.0,
+        "factor": 0.4,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "인터벌 1/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 1/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 2/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 2/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 3/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 3/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 4/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 4/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 5/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 5/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 6/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 6/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 7/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 7/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 8/8",
+        "seconds": 60.0,
+        "factor": 1.21,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 8/8",
+        "seconds": 60.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "회복",
+        "seconds": 300.0,
+        "factor": 0.4,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "쿨다운",
+        "seconds": 300.0,
+        "factor": 0.39,
+        "factorEnd": 0.32,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      }
+    ]
+  },
+  "threshold": {
+    "name": "역치 2 × 20 · Pasta",
+    "category": "인터벌",
+    "detail": "70분 · 2 × 20분 @ 98%",
+    "description": "긴 역치 블록 두 개와 10분 회복.",
+    "origin": "Flux · Pasta",
+    "source": "/workouts/threshold.zwo",
+    "steps": [
+      {
+        "label": "워밍업",
+        "seconds": 120.0,
+        "factor": 0.32,
+        "factorEnd": 0.39,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "회복",
+        "seconds": 60.0,
+        "factor": 0.39,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "회복",
+        "seconds": 60.0,
+        "factor": 0.47,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 60.0,
+        "factor": 0.55,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 60.0,
+        "factor": 0.63,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "인터벌 1/2",
+        "seconds": 30.0,
+        "factor": 1.06,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 1/2",
+        "seconds": 30.0,
+        "factor": 0.63,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 2/2",
+        "seconds": 30.0,
+        "factor": 1.06,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 2/2",
+        "seconds": 30.0,
+        "factor": 0.63,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "회복",
+        "seconds": 120.0,
+        "factor": 0.5,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "역치",
+        "seconds": 1200.0,
+        "factor": 0.98,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "회복",
+        "seconds": 600.0,
+        "factor": 0.44,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "역치",
+        "seconds": 1200.0,
+        "factor": 0.98,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "회복",
+        "seconds": 300.0,
+        "factor": 0.44,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "쿨다운",
+        "seconds": 300.0,
+        "factor": 0.44,
+        "factorEnd": 0.32,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      }
+    ]
+  },
+  "intervals": {
+    "name": "스위트 스폿 · Maple",
+    "category": "인터벌",
+    "detail": "80분 · 4 × 10분 @ 92%",
+    "description": "4개의 스위트 스폿 블록과 5분 회복.",
+    "origin": "Flux · Maple",
+    "source": "/workouts/intervals.zwo",
+    "steps": [
+      {
+        "label": "워밍업",
+        "seconds": 300.0,
+        "factor": 0.32,
+        "factorEnd": 0.75,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "인터벌 1/2",
+        "seconds": 30.0,
+        "factor": 1.08,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 1/2",
+        "seconds": 30.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 2/2",
+        "seconds": 30.0,
+        "factor": 1.08,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 2/2",
+        "seconds": 30.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "회복",
+        "seconds": 180.0,
+        "factor": 0.44,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "인터벌 1/4",
+        "seconds": 600.0,
+        "factor": 0.92,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 1/4",
+        "seconds": 300.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 2/4",
+        "seconds": 600.0,
+        "factor": 0.92,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 2/4",
+        "seconds": 300.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 3/4",
+        "seconds": 600.0,
+        "factor": 0.92,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 3/4",
+        "seconds": 300.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 4/4",
+        "seconds": 600.0,
+        "factor": 0.92,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 4/4",
+        "seconds": 300.0,
+        "factor": 0.44,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "쿨다운",
+        "seconds": 600.0,
+        "factor": 0.44,
+        "factorEnd": 0.32,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      }
+    ]
+  },
+  "base": {
+    "name": "Z2 믹스 · Baguette",
+    "category": "Z2",
+    "detail": "90분 · Z1–Z2 교대",
+    "description": "회복과 지구력 강도를 번갈아 유지합니다.",
+    "origin": "Flux · Baguette",
+    "source": "/workouts/base.zwo",
+    "steps": [
+      {
+        "label": "워밍업",
+        "seconds": 600.0,
+        "factor": 0.32,
+        "factorEnd": 0.63,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 600.0,
+        "factor": 0.63,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 300.0,
+        "factor": 0.56,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 600.0,
+        "factor": 0.71,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 300.0,
+        "factor": 0.56,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 600.0,
+        "factor": 0.71,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 300.0,
+        "factor": 0.56,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 600.0,
+        "factor": 0.71,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 300.0,
+        "factor": 0.56,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "지구력",
+        "seconds": 600.0,
+        "factor": 0.63,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "쿨다운",
+        "seconds": 600.0,
+        "factor": 0.63,
+        "factorEnd": 0.32,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      }
+    ]
+  },
+  "lsd": {
+    "name": "LSD 90 · Butter",
+    "category": "LSD",
+    "detail": "90분 · 주 구간 FTP 67%",
+    "description": "긴 Z2 유지로 유산소 기반을 쌓는 Flux 원본 훈련.",
+    "origin": "Flux · Butter",
+    "source": "/workouts/lsd.zwo",
+    "steps": [
+      {
+        "label": "워밍업",
+        "seconds": 360.0,
+        "factor": 0.32,
+        "factorEnd": 0.55,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "인터벌 1/2",
+        "seconds": 60.0,
+        "factor": 0.88,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 1/2",
+        "seconds": 60.0,
+        "factor": 0.55,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "인터벌 2/2",
+        "seconds": 60.0,
+        "factor": 0.88,
+        "cadenceLow": 85.0,
+        "cadenceHigh": 95.0
+      },
+      {
+        "label": "회복 2/2",
+        "seconds": 60.0,
+        "factor": 0.55,
+        "cadenceLow": 75.0,
+        "cadenceHigh": 85.0
+      },
+      {
+        "label": "지구력",
+        "seconds": 4200.0,
+        "factor": 0.67,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "쿨다운",
+        "seconds": 600.0,
+        "factor": 0.67,
+        "factorEnd": 0.32,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      }
+    ]
+  },
+  "recovery": {
+    "name": "리커버리 · Blackcurrant",
+    "category": "회복",
+    "detail": "60분 · 주 구간 FTP 50%",
+    "description": "낮은 강도로 회복을 돕는 라이딩.",
+    "origin": "Flux · Blackcurrant",
+    "source": "/workouts/recovery.zwo",
+    "steps": [
+      {
+        "label": "워밍업",
+        "seconds": 600.0,
+        "factor": 0.3,
+        "factorEnd": 0.5,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "회복",
+        "seconds": 2400.0,
+        "factor": 0.5,
+        "cadenceLow": 80,
+        "cadenceHigh": 90
+      },
+      {
+        "label": "쿨다운",
+        "seconds": 600.0,
+        "factor": 0.5,
+        "factorEnd": 0.3,
+        "cadenceLow": 75,
+        "cadenceHigh": 90
+      }
+    ]
+  }
+}

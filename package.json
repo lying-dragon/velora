@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "three": "^0.186.1",
+    "ws": "^8.21.3"
+  },
+  "devDependencies": {
+    "@electron/packager": "^20.3.0",
+    "@playwright/test": "^1.63.0",
+    "@types/three": "^0.186.0",
+    "@types/ws": "^8.18.1",
+    "electron": "^44.4.5",
+    "prettier": "^3.9.9",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.1"
+  },
+  "optionalDependencies": {
+    "ant-plus": "^0.2.0"
+  },
+  "name": "velora",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "bridge": "node bridge/server.mjs",
+    "test": "tsx --test tests/*.test.ts",
+    "test:e2e": "playwright test",
+    "integrations": "node services/server.mjs",
+    "desktop": "electron .",
+    "package:desktop": "npm run build && node scripts/package-desktop.mjs",
+    "package:web": "npm run build && node scripts/package-web.mjs"
+  },
+  "license": "AGPL-3.0",
+  "main": "desktop/main.cjs"
+}

@@ -1,0 +1,18 @@
+<workout_file>
+    <author>Marinov</author>
+    <name>Maple</name>
+    <category>Sweet Spot</category>
+    <description>4 times 10 min Sweet Spot intervals with 5 min recovery in between and warm-up Ramp.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="sweet"/>
+        <tag name="spot"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.32" PowerHigh="0.75"/>
+        <IntervalsT Repeat="2" OnDuration="30" OffDuration="30" OnPower="1.08" OffPower="0.44"/>
+        <SteadyState Duration="180" Power="0.44"/>
+        <IntervalsT Repeat="4" OnDuration="600" OffDuration="300" OnPower="0.92" OffPower="0.44"/>
+        <Cooldown Duration="600" PowerLow="0.44" PowerHigh="0.32"/>
+    </workout>
+</workout_file>
