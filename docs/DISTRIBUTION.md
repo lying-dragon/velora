@@ -9,7 +9,7 @@
 ## 다른 사람에게
 
 - 개인 Mac 테스트: `release/VELORA-mac-arm64.zip`과 `release/VELORA-source.zip`을 함께 전달합니다. 압축을 풀고 앱을 응용 프로그램으로 복사합니다. 현재 빌드는 서명·공증되지 않아 macOS가 처음 실행을 차단할 수 있습니다. 공개 배포는 Apple Developer ID로 서명·공증한 DMG를 권장합니다.
-- 웹 체험판: `release/VELORA-web.zip`의 dist 내용물을 정적 HTTPS 호스팅에 배포합니다. 상대 경로 빌드로 하위 디렉터리도 지원합니다. 서버 비밀이나 사용자 설정 파일은 포함하지 않습니다. 사용자마다 브라우저에 설정을 저장하며 PC 디스크 백업 및 Strava 자동화는 데스크톱 앱에서만 지원합니다. 공개 웹 주소는 https://jegarlyang.github.io/velora/ 입니다. main 브랜치에 푸시하면 테스트·빌드 후 GitHub Pages로 배포합니다.
+- 웹 체험판: `release/VELORA-web.zip`의 dist 내용물을 정적 HTTPS 호스팅에 배포합니다. 상대 경로 빌드로 하위 디렉터리도 지원합니다. 서버 비밀이나 사용자 설정 파일은 포함하지 않습니다. 사용자마다 브라우저에 설정을 저장하며 PC 디스크 백업 및 Strava 자동화는 데스크톱 앱에서만 지원합니다. 공개 웹 주소는 https://lying-dragon.github.io/velora/ 입니다. main 브랜치에 푸시하면 테스트·빌드 후 GitHub Pages로 배포합니다.
 - Windows: Chrome/Edge 웹 버전 또는 소스 실행을 사용할 수 있습니다. 이 Mac에서 만든 앱은 Windows에서 실행되지 않습니다. Windows 패키징과 장치 드라이버 검증은 별도 Windows 환경에서 진행해야 합니다.
 - AGPL-3.0 소스와 라이선스를 함께 제공합니다. 수정판을 공개 호스팅할 때도 사용자가 대응 소스를 받을 수 있어야 합니다.
 

@@ -4,9 +4,9 @@
 
 ## 다운로드와 웹 체험
 
-- [웹에서 바로 실행](https://jegarlyang.github.io/velora/)
-- [Mac Apple Silicon 앱 다운로드](https://github.com/JeGarlyang/velora/releases/latest)
-- [소스 코드](https://github.com/JeGarlyang/velora)
+- [웹에서 바로 실행](https://lying-dragon.github.io/velora/)
+- [Mac Apple Silicon 앱 다운로드](https://github.com/lying-dragon/velora/releases/latest)
+- [소스 코드](https://github.com/lying-dragon/velora)
 
 웹 버전은 설치 없이 체험할 수 있고, Strava 웹 자동 업로드는 Mac 앱에서 사용합니다. 실제 장치 지원과 사용법은 아래를 확인하세요.
 
